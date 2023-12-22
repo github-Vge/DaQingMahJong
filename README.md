@@ -3,6 +3,9 @@
 此项目是客户端，服务端项目地址参见：[DaQingMahJong_Server](https://github.com/github-Vge/DaQingMahJong_Server)<br>
 ## 玩法演示
 https://github.com/github-Vge/DaQingMahJong/assets/59076082/2f2e552e-3670-49a2-bc17-85fd5cb52d99
+## Windows下载试玩
+可以点击release按钮下载可执行程序，试玩游戏。<br>
+![image](https://github.com/github-Vge/DaQingMahJong/assets/59076082/1a8dcacf-0f41-41fd-b4c1-06beae676600)
 ## 项目环境
 Unity3D 2021.3.29f1c1版本开发。
 ## 使用方法
